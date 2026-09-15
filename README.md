@@ -54,4 +54,3 @@ Junior opportunities in **software development, automation, backend systems and 
 
 - Spanish: Native
 - English: B2
-- GitHub: [@braaxler](https://github.com/braaxler)
