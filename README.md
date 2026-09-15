@@ -1,4 +1,4 @@
-# Brian Chávez
+# Brian
 
 Software Engineering student from Chile focused on **Python, automation and AI-assisted development**.
 
