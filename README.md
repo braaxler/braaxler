@@ -1,47 +1,56 @@
-# Brian
+# Hi, I'm Brian 👋
 
-Software Engineering student from Chile focused on **automation, backend development and AI-assisted software engineering**.
+I'm a **Software Engineering student from Chile** focused on **backend development, automation, and practical AI-assisted software engineering**.
 
-I like turning ideas and requirements into working systems — designing the solution, building with modern AI coding tools, testing it, and iterating until it works reliably.
+I enjoy taking ideas from rough requirements to working software: designing the architecture, implementing features, testing edge cases, deploying, and improving what doesn't work.
 
-## Currently building
+I use tools like **OpenAI Codex** to accelerate development, while keeping the focus on **maintainable code, reliable workflows, and real results**.
 
-### DotaFactory
+## What I'm building
 
-Local-first automation pipeline for Dota 2 content.
+### DotaFactory — Content automation
 
-`discover → select → download → review → render → publish → measure`
+A local-first production pipeline for Dota 2 content, built with **Python, FFmpeg, APIs, and persistent workflows**.
 
-Built around Python, FFmpeg, APIs, persistent workflows, automated testing and unattended execution.
+It covers clip discovery, selection, rendering, metadata preparation, publishing workflows, and performance measurement. The system includes automated tests, quality checks, recovery paths, and human review at editorial or publishing checkpoints.
 
-### CampusLink
+### CampusLink — University capstone
 
-Capstone platform for university communities, resources and campus services.
+A mobile and backend platform for university communities, shared resources, and campus services.
 
-Working across **TypeScript, REST APIs, Supabase/PostgreSQL, MongoDB, authentication, permissions and backend architecture**.
+Working with **TypeScript, Node.js/Express, REST APIs, PostgreSQL/Supabase, MongoDB, Docker, and Expo/React Native**, including authentication, authorization, and data modeling.
 
-### Landing Factory / ComoDebe
+### ComoDebe / LandingFactory — Web production
 
-Exploring a small web production system for building high-quality landing pages with **AI-assisted development, strong visual QA and reusable workflows**.
+Building a repeatable workflow to deliver websites for small businesses: understanding requirements, implementing the site, reviewing visual quality, and deploying.
 
-## Tech
+The work includes a real client project, **[Metamorpho](https://metamorpho.pages.dev/)**, and experience with **Astro, Cloudflare Pages, and AI-assisted development workflows**.
 
-**Python · TypeScript · JavaScript · Git/GitHub · REST APIs · MongoDB · PostgreSQL/Supabase · FFmpeg · Next.js**
+### Tryhard Nutrition — Offline-first Android app
 
-Also working heavily with **OpenAI Codex and AI-assisted development workflows**.
+A personal nutrition-tracking app built with **Kotlin, Jetpack Compose, and Room/SQLite**.
+
+Exploring barcode scanning, nutrition-label OCR, and on-device computer vision, with a local-first approach to data and functionality.
+
+## Tech stack
+
+- **Languages:** Python, TypeScript, JavaScript, Kotlin, SQL
+- **Backend & data:** Node.js, Express, REST APIs, PostgreSQL, Supabase, MongoDB, SQLite/Room
+- **Web & mobile:** React, Next.js, Astro, Expo/React Native, Jetpack Compose
+- **Tools & workflows:** Git/GitHub, Docker, FFmpeg, automated testing, Vercel, Cloudflare Pages, OpenAI Codex
 
 ## Experience
 
-**Software Development Intern — Fraccional / Alloxentric**
-Apr 2026 – Jul 2026
+**Software Development Intern — Fraccional / Alloxentric**  
+*April – July 2026*
 
-* Implemented features from product requirements
-* Fixed bugs and validated functionality
-* Worked with Git and GitHub Projects
-* Supported test deployments with Vercel and Heroku
+- Implemented features based on product requirements and existing architecture.
+- Investigated bugs, fixed issues, and validated functionality.
+- Collaborated using Git, GitHub, and GitHub Projects.
+- Supported test deployments with Vercel and Heroku.
 
 ## Currently looking for
 
-Junior opportunities in **software development, backend systems, automation and AI-assisted workflows**.
+I'm interested in **junior software development opportunities**, especially in **backend engineering, automation, and product-focused development**.
 
-**Spanish:** Native · **English:** B2
+**Languages:** Spanish (native) · English (B2)
